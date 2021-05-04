@@ -1,0 +1,10 @@
+.stream{
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    min-width:100px;
+    min-height:60;
+    width: auto;
+    height: auto;
+    z-index: 4;
+}

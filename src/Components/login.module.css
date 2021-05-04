@@ -1,0 +1,61 @@
+.loginDiv {
+  background-color: white;
+  box-shadow: 2px 5px 20px rgb(49, 49, 49);
+  margin-left: 10px;
+  margin-top: 5%;
+  width: 48%;
+  height: 30%;
+  padding: 40px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 10pt;
+  font-weight: 500;
+
+}
+.userName {
+  align-items: flex-start;
+  text-align: left;
+}
+.Input {
+  background-color: gray;
+  margin-top: 5%;
+}
+input {
+  width: 100%;
+  height: 30px;
+  border-radius: 3px;
+  border: 1px solid gray;
+}
+.LoginButton{
+    width: 102%;
+    margin-top: 10%;
+    height: 6vh;
+    background-color: #F38B00;
+    border: none;
+    color: white;
+    border-radius: 20px;
+}
+.LoginButton:hover{
+    cursor: pointer;
+    background-color: #d37802;
+}
+/* .roundButton {
+  border-radius: 50%;
+  background-color: #4caf50;
+  color: white;
+  height: 20px;
+  width: 7px;
+  text-align: center;
+  margin-top: 10px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+a:hover {
+    background-color: #ddd;
+    color: black;
+    
+  }
+   */
